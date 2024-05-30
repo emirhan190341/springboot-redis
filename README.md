@@ -9,7 +9,7 @@ Spring Boot Redis
 
 
 - Java 17
-- Spring Boot 3x.x
+- Spring Boot 3.3.0
 - Spring Redis
 - Docker
 - Lombok
