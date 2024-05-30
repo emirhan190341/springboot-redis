@@ -1,17 +1,13 @@
 Spring Boot Redis
 ---
 
-  ![image](https://github.com/emirhan190341/springboot-redis/assets/67711815/a5119cc4-967b-4ece-921e-16bd86bfb5a1)
-
+  ![image](https://github.com/emirhan190341/springboot-redis/assets/67711815/a4b1a151-dcdf-44d1-a18e-d6841a4014f6)
 
 ---
-https://emirhanarici.medium.com/spring-boot-and-elasticsearch-10c6840abd68
----
-
 
 
 - Java 17
 - Spring Boot 3x.x
-- Spring Elasticsearch Data
+- Spring Redis
 - Docker
 - Lombok
